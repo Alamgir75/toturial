@@ -1,0 +1,9 @@
+.blog{
+    border: 5px solid blue;
+    border-radius: 30px;
+    /* margin: 1px 405px 100px 30px; */
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 500px;
+    margin-bottom: 400px;
+}

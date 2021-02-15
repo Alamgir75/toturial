@@ -1,0 +1,14 @@
+/* <!-- Padding, different ways to set padding, CSS Box model --> */
+
+.blog{
+    border: 40px solid rgb(31, 145, 55);
+    height: 30%;
+    width: 50%;
+    margin: 50px;
+    padding: 50px;
+    /* border-radius: 30px;
+    margin: 9px;
+    padding: 40px; */
+    
+    
+}

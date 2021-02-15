@@ -1,0 +1,12 @@
+
+
+.about{
+    background-color: orange;
+    border: 2px solid black;
+    padding: 50px 50px 50px 50px;
+   width: 500px;
+   margin: 50px 60px 70px 80px;
+   margin-left: 100px;
+   border-radius: 100px;
+   outline:8px solid coral;
+}
